@@ -2,7 +2,7 @@
 
 A React + Vite project built as part of the MERN Stack + AI Engineering Bootcamp.
 
-## 📌 Project Overview
+## Project Overview
 
 This application displays a directory of team members using reusable React components. It demonstrates:
 
@@ -15,7 +15,7 @@ This application displays a directory of team members using reusable React compo
 - Conditional Rendering
 - Vite
 
-## 🚀 Features
+## Features
 
 - Display 6 team member cards
 - Admin badge for admin members
@@ -25,14 +25,14 @@ This application displays a directory of team members using reusable React compo
 - Responsive card layout
 - Clean UI
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React
 - Vite
 - JavaScript (ES6)
 - CSS3
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 src/
@@ -51,12 +51,12 @@ src/
 └── main.jsx
 ```
 
-## ▶️ Installation
+##  Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/team-directory.git
+git https://github.com/fareenadastgir5-maker/Team-profile-directory/tree/main/reactfirstclass
 ```
 
 Go to the project folder:
@@ -77,7 +77,7 @@ Start the development server:
 npm run dev
 ```
 
-## 📸 Output
+##  Output
 
 The application displays:
 
@@ -89,17 +89,14 @@ The application displays:
 - Admin Badge
 - Follow Button
 
-## 🌐 Deployment
+##  Deployment
 
-- GitHub Repository: `Add your GitHub repository link`
-- Vercel Live Link: `Add your Vercel deployment link`
+- GitHub Repository: https://github.com/fareenadastgir5-maker/Team-profile-directory/tree/main/reactfirstclass
 
-## 👨‍💻 Author
+- Vercel Live Link: 
 
-**Name:** Wajiha Dastgir
+##  Author
 
-**Bootcamp:** MERN Stack + AI Engineering Bootcamp
+**Name:** fareena Dastgir
 
----
 
-⭐ Thank you for checking out this project!
