@@ -1,0 +1,16 @@
+.section {
+  width: 90%;
+  margin: 30px auto;
+}
+
+.section h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.section-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+}
