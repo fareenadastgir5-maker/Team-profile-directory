@@ -2,7 +2,7 @@ import "./App.css";
 
 import team from "./data/team";
 
-import Section from "./components/Section/Section";
+import Section from './components/section/section';
 import Card from "./components/Card/Card";
 import TeamMember from "./components/team-member/TeamMember";
 
