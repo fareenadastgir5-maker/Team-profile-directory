@@ -1,5 +1,5 @@
 import './teammember.css';
-import SkillBadge from "../skill-badge/SkillBadge";
+import SkillBadge from '../skill-badge/skillbadge';
 
 function TeamMember({
   name,
