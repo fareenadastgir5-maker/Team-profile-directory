@@ -1,4 +1,4 @@
-import "./TeamMember.css";
+import './teammember.css';
 import SkillBadge from "../skill-badge/SkillBadge";
 
 function TeamMember({

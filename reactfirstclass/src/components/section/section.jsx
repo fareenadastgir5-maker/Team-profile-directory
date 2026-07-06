@@ -1,4 +1,4 @@
-import "./Section.css";
+import './section.css';   // sahi (lowercase)
 
 function Section({ title, children }) {
   return (
