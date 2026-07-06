@@ -93,8 +93,9 @@ The application displays:
 
 - GitHub Repository: https://github.com/fareenadastgir5-maker/Team-profile-directory/tree/main/reactfirstclass
 
-- Vercel Live Link: 
+- Vercel Live Link:https://team-profile-directory-o188-5vxrl92qv-techners-lab.vercel.app/
 
+loom walkthrough :https://www.loom.com/share/ecd41f2d4cdf4a0a9e64900c8a824537
 ##  Author
 
 **Name:** fareena Dastgir
