@@ -3,8 +3,9 @@ import "./App.css";
 import team from "./data/team";
 
 import Section from './components/section/section';
-import Card from "./components/Card/Card";
-import TeamMember from "./components/team-member/TeamMember";
+import Card from './components/card/card';
+import SkillBadge from './components/skill-badge/skillbadge';
+import TeamMember from './components/team-member/teammember';
 
 function App() {
   const onFollow = (name) => {
